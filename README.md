@@ -61,13 +61,13 @@ pip install numpy
 - The network lacks a clear loss function for measuring performance.
 - Only demonstrates the mechanics of a simple neural network without real-world application.
 - Fixed number of epochs (100) with no stopping criteria.
-
+  
 ## Future Enhancements
 
 - Add a loss function to track training progress.
 - Enable dynamic adjustments of learning parameters.
 - Introduce support for multiple layers and configurable architectures.
-
+  
 ## License
 
 This script is provided as-is under an open-source license. Feel free to modify and enhance it for learning and experimentation.
